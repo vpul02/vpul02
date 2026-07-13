@@ -1,4 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Vipul Jaiswal
+
+📊 Aspiring Data Analyst  
+🤖 AI & Machine Learning Enthusiast  
+🐍 Python | SQL | Power BI | Excel | Pandas | NumPy  
+🎨 Exploring UI/UX Design  
+🌱 Currently Learning Generative AI, Machine Learning & Data Analytics
+
+---
+
+## 🚀 Skills
+
+### 📊 Data Analytics
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+### 🤖 AI & Machine Learning
+- Scikit-learn
+- Machine Learning
+- Artificial Intelligence
+- Model Evaluation
+- Feature Engineering
+
+### 🎨 UI/UX
+- Figma
+- Wireframing
+- Prototyping
+- User-Centered Design
 
 <!--
 **vpul02/vpul02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
