@@ -29,11 +29,7 @@
 - Model Evaluation
 - Feature Engineering
 
-### 🎨 UI/UX
-- Figma
-- Wireframing
-- Prototyping
-- User-Centered Design
+
 
 <!--
 **vpul02/vpul02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
