@@ -7,7 +7,7 @@
 🐍 Python | SQL | Power BI | Excel | Pandas | NumPy  
 🎨 Exploring UI/UX Design  
 🌱 Currently Learning Generative AI, Machine Learning & Data Analytics
-
+</div>
 ---
 
 ## 🚀 Skills
