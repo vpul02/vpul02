@@ -1,5 +1,6 @@
 <div align="center">
 <img src="banner.png" alt="banner" width="100%" />
+</div>
   # Hi 👋, I'm Vipul Jaiswal
 
 📊 Aspiring Data Analyst  
@@ -7,7 +8,7 @@
 🐍 Python | SQL | Power BI | Excel | Pandas | NumPy  
 🎨 Exploring UI/UX Design  
 🌱 Currently Learning Generative AI, Machine Learning & Data Analytics
-</div>
+
 ---
 
 ## 🚀 Skills
