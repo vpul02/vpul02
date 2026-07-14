@@ -1,4 +1,6 @@
-# Hi 👋, I'm Vipul Jaiswal
+<div align="center">
+<img src="banner.png" alt="banner" width="100%" />
+  # Hi 👋, I'm Vipul Jaiswal
 
 📊 Aspiring Data Analyst  
 🤖 AI & Machine Learning Enthusiast  
